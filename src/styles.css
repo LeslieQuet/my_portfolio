@@ -31,6 +31,13 @@
     color: inherit;
   }
 
+  .nav_link:hover {
+    background-color: #867743;
+    padding: 3px;
+    border-radius: 10%;
+    color: #ffffff;
+  }
+
   .container_resp {
     display: flex;
     width: 100%;
@@ -88,7 +95,7 @@
     line-height: 1;
     font-weight: 600;
     text-transform: capitalize;
-    color: white;
+    color: black;
   }
 
   .footer {
